@@ -8,7 +8,7 @@ Created by M.Alifa
 
 This function fits a nonlinear, temporally-varying model for vertical extrapolation of hourly wind speed for the purpose of wind energy applications, and performs wind speed extrapolation in the presence of the necessary data
 
-More details about the model can be found in Crippa et al, 2020 (insert DOI upon publication)
+More details about the model can be found in Crippa et al, 2021 (insert DOI upon publication)
   	
 Inputs:
 
